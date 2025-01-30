@@ -20,7 +20,7 @@ if (app_mode == "Home"):
     st.header("Fruits & Vegetables Recognition System")
     st.text("By Joel Ngiam")
      # Add GitHub Repository Link
-    st.markdown("[🔗 GitHub Repository](https://github.com/yourusername/your-repo)", unsafe_allow_html=True)
+    st.markdown("[🔗 GitHub Repository](https://github.com/JoelNgiamKeeYong/cnn-fruits-vege-recognition)", unsafe_allow_html=True)
     image_path = "assets/home_page_image.png"
     st.image(image_path)
     st.subheader("Dataset")
