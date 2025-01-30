@@ -20,7 +20,7 @@ This project follows a **deep learning workflow** with the following steps:
 
 - **Dataset**:
   - Used the **Fruits and Vegetables Image Recognition Dataset** from Kaggle ([Dataset Link](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)).
-  - Only test data included in this directory due to file size constraints. To see the full dataset, see the Kaggle website link above.
+  - The data is not included in this directory due to file size constraints. To see the full dataset, see the Kaggle website link above.
 - **Image Preprocessing**:
   - Resized images to **64x64 pixels** for uniform input size.
   - Applied **normalization** to scale pixel values between 0 and 1.
