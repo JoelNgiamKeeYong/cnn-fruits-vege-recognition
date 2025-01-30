@@ -1,0 +1,2 @@
+# To activate the below when deploying to Heroku due to file size constraints
+/data/ 

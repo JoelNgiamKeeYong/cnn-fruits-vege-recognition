@@ -47,9 +47,9 @@ This project follows a **deep learning workflow** with the following steps:
 
 | Metric              | Value |
 | ------------------- | ----- |
-| Training Accuracy   | 85.5% |
-| Validation Accuracy | 80.4% |
-| Loss (Validation)   | 1.02  |
+| Training Accuracy   | 95.2% |
+| Validation Accuracy | 91.9% |
+| Loss (Validation)   | 0.24  |
 
 ---
 
